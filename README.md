@@ -11,4 +11,4 @@
 <p align="center">You can check it out <a href="https://www.katefidis.ga/TODOapp/">here</a>.</p>
 
 # License
-MIT © Emmanouil Katefidis
+MIT© <a href="https://github.com/man0s">Emmanouil Katefidis</a>
