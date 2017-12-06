@@ -5,7 +5,7 @@
 </p>
 <i>
 <p align="center">
-   A simple ToDo list app built with HTML, CSS and jQuery.
+   A simple ToDo list app built with HTML, CSS and <a href="https://jquery.com">jQuery</a>.
 </p>
 </i>
 <p align="center">You can check it out <a href="https://www.katefidis.ga/TODOapp/">here</a>.</p>
