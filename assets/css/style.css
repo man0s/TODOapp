@@ -56,7 +56,19 @@ li:nth-child(2n) {
 	background-color: #f7f7f7;
 }
 
-span {
+.delete {
+	background-color: #e74c3c;
+	height: 40px;
+	margin-right: 20px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	width: 0px;
+	transition: 0.2s linear;
+	opacity: 0;
+}
+
+.delete {
 	background-color: #e74c3c;
 	height: 40px;
 	margin-right: 20px;
@@ -74,7 +86,7 @@ li:hover span {
 }
 
 .completed {
-	color: gray; /*#4FAF5A;*/
+	color: #4FAF5A;
 	text-decoration: line-through;
 }
 

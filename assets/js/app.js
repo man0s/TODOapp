@@ -11,7 +11,7 @@ $('ul').on('click', 'span', function(e){ //e stands for event
 
 $('input[type="text"]').keypress(function(e){
 	if(e.which === 13){
-		$('ul').append('<li><span><i class="fa fa-trash-o" aria-hidden="true"></i></span> ' + $(this).val() + '</li>');
+		$('ul').append('<li><span class="delete"><i class="fa fa-trash-o" aria-hidden="true"></i></span> ' + $(this).val() + '</li>');
 		$(this).val(null);
 	}
 });
