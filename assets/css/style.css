@@ -93,3 +93,14 @@ li:hover span {
 .fa-plus {
 	float: right;
 }
+
+#info {
+	display: block;
+	position:fixed;
+	right:20px;
+	bottom:20px;
+	padding:0;
+	margin:0;
+	text-align:right;
+	color: #232323;
+}
